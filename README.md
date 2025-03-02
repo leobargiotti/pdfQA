@@ -73,5 +73,7 @@ This screenshot shows the main application window with the upload, process, and 
 
 This screenshot shows the question history dialog, allowing users to review past questions and answers.
 
-![history.png](./image/history.png)
+<div style="text-align: center;">
+    <img src="./image/history.png" alt="history" width="700"/>
+</div>
 
