@@ -16,7 +16,7 @@ This project implements a chatbot application that allows users to upload PDF do
 
 1.  Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/leobargiotti/pdfQA
     ```
 2.  Create a virtual environment (recommended):
     ```bash
