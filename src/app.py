@@ -406,7 +406,7 @@ class PDFChatApp(QMainWindow):
             None
         """
         self.chat_history.clear()
-        self.chat_history.clear()
+        self.conversation_history.clear()
 
     def show_history(self):
         """
